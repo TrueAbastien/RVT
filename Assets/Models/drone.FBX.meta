@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 3f9162e3c9c09724a8b93152bb6ab867
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: brep_1
+    100006: brep_1-DC_Shell
+    100008: brep_2
+    100010: brep_2-DC_Shell
+    100012: brep_3
+    100014: brep_3-DC_Shell
+    100016: brep_4
+    100018: brep_4-DC_Shell
+    100020: brep_5
+    100022: brep_5-DC_Shell
+    100024: brep_6
+    100026: brep_6-DC_Shell
+    100028: brep_7
+    100030: brep_7-DC_Shell
+    100032: brep_rep_0
+    100034: Cut-Extrude20
+    100036: Cut-Extrude20-DC_Shell
+    100038: Document 1
+    100040: Document 2
+    100042: //RootNode
+    100044: shell_10
+    100046: shell_10-DC_Shell
+    100048: shell_11
+    100050: shell_11-DC_Shell
+    100052: shell_2
+    100054: shell_2-DC_Shell
+    100056: shell_3
+    100058: shell_3-DC_Shell
+    100060: shell_4
+    100062: shell_4-DC_Shell
+    100064: shell_5
+    100066: shell_5-DC_Shell
+    100068: shell_6
+    100070: shell_6-DC_Shell
+    100072: shell_7
+    100074: shell_7-DC_Shell
+    100076: shell_8
+    100078: shell_8-DC_Shell
+    100080: shell_9
+    100082: shell_9-DC_Shell
+    100084: shell_rep_0
+    100086: TRM_SRF
+    100088: TRM_SRF-DC_Shell
+    100090: ZH3-2D Base1
+    100092: ZH3-2D Base1-DC_Shell
+    100094: ZH3-2D Base2
+    100096: ZH3-2D Base2-DC_Shell
+    100098: ZH3-2D Bracket1
+    100100: ZH3-2D Bracket1 1
+    100102: ZH3-2D Bracket1-DC_Shell
+    100104: ZH3-2D Bracket1-DC_Shell 1
+    100106: ZH3-2D Bracket2
+    100108: ZH3-2D Bracket2 1
+    100110: ZH3-2D Bracket2-DC_Shell
+    100112: ZH3-2D Bracket2-DC_Shell 1
+    100114: ZH3-2D Shock
+    100116: ZH3-2D Shock 1
+    100118: ZH3-2D Shock 2
+    100120: ZH3-2D Shock 3
+    100122: ZH3-2D Shock-DC_Shell
+    100124: ZH3-2D Shock-DC_Shell 1
+    100126: ZH3-2D Shock-DC_Shell 2
+    100128: ZH3-2D Shock-DC_Shell 3
+    100130: ZH3-2D Tray
+    100132: ZH3-2D Tray-DC_Shell
+    400000: ' 1'
+    400002: ' 2'
+    400004: brep_1
+    400006: brep_1-DC_Shell
+    400008: brep_2
+    400010: brep_2-DC_Shell
+    400012: brep_3
+    400014: brep_3-DC_Shell
+    400016: brep_4
+    400018: brep_4-DC_Shell
+    400020: brep_5
+    400022: brep_5-DC_Shell
+    400024: brep_6
+    400026: brep_6-DC_Shell
+    400028: brep_7
+    400030: brep_7-DC_Shell
+    400032: brep_rep_0
+    400034: Cut-Extrude20
+    400036: Cut-Extrude20-DC_Shell
+    400038: Document 1
+    400040: Document 2
+    400042: //RootNode
+    400044: shell_10
+    400046: shell_10-DC_Shell
+    400048: shell_11
+    400050: shell_11-DC_Shell
+    400052: shell_2
+    400054: shell_2-DC_Shell
+    400056: shell_3
+    400058: shell_3-DC_Shell
+    400060: shell_4
+    400062: shell_4-DC_Shell
+    400064: shell_5
+    400066: shell_5-DC_Shell
+    400068: shell_6
+    400070: shell_6-DC_Shell
+    400072: shell_7
+    400074: shell_7-DC_Shell
+    400076: shell_8
+    400078: shell_8-DC_Shell
+    400080: shell_9
+    400082: shell_9-DC_Shell
+    400084: shell_rep_0
+    400086: TRM_SRF
+    400088: TRM_SRF-DC_Shell
+    400090: ZH3-2D Base1
+    400092: ZH3-2D Base1-DC_Shell
+    400094: ZH3-2D Base2
+    400096: ZH3-2D Base2-DC_Shell
+    400098: ZH3-2D Bracket1
+    400100: ZH3-2D Bracket1 1
+    400102: ZH3-2D Bracket1-DC_Shell
+    400104: ZH3-2D Bracket1-DC_Shell 1
+    400106: ZH3-2D Bracket2
+    400108: ZH3-2D Bracket2 1
+    400110: ZH3-2D Bracket2-DC_Shell
+    400112: ZH3-2D Bracket2-DC_Shell 1
+    400114: ZH3-2D Shock
+    400116: ZH3-2D Shock 1
+    400118: ZH3-2D Shock 2
+    400120: ZH3-2D Shock 3
+    400122: ZH3-2D Shock-DC_Shell
+    400124: ZH3-2D Shock-DC_Shell 1
+    400126: ZH3-2D Shock-DC_Shell 2
+    400128: ZH3-2D Shock-DC_Shell 3
+    400130: ZH3-2D Tray
+    400132: ZH3-2D Tray-DC_Shell
+    2100000: No Name
+    2300000: brep_1-DC_Shell
+    2300002: brep_2-DC_Shell
+    2300004: brep_3-DC_Shell
+    2300006: brep_4-DC_Shell
+    2300008: brep_5-DC_Shell
+    2300010: brep_6-DC_Shell
+    2300012: brep_7-DC_Shell
+    2300014: Cut-Extrude20-DC_Shell
+    2300016: shell_10-DC_Shell
+    2300018: shell_11-DC_Shell
+    2300020: shell_2-DC_Shell
+    2300022: shell_3-DC_Shell
+    2300024: shell_4-DC_Shell
+    2300026: shell_5-DC_Shell
+    2300028: shell_6-DC_Shell
+    2300030: shell_7-DC_Shell
+    2300032: shell_8-DC_Shell
+    2300034: shell_9-DC_Shell
+    2300036: TRM_SRF-DC_Shell
+    2300038: ZH3-2D Base1-DC_Shell
+    2300040: ZH3-2D Base2-DC_Shell
+    2300042: ZH3-2D Bracket1-DC_Shell
+    2300044: ZH3-2D Bracket1-DC_Shell 1
+    2300046: ZH3-2D Bracket2-DC_Shell
+    2300048: ZH3-2D Bracket2-DC_Shell 1
+    2300050: ZH3-2D Shock-DC_Shell
+    2300052: ZH3-2D Shock-DC_Shell 1
+    2300054: ZH3-2D Shock-DC_Shell 2
+    2300056: ZH3-2D Shock-DC_Shell 3
+    2300058: ZH3-2D Tray-DC_Shell
+    3300000: brep_1-DC_Shell
+    3300002: brep_2-DC_Shell
+    3300004: brep_3-DC_Shell
+    3300006: brep_4-DC_Shell
+    3300008: brep_5-DC_Shell
+    3300010: brep_6-DC_Shell
+    3300012: brep_7-DC_Shell
+    3300014: Cut-Extrude20-DC_Shell
+    3300016: shell_10-DC_Shell
+    3300018: shell_11-DC_Shell
+    3300020: shell_2-DC_Shell
+    3300022: shell_3-DC_Shell
+    3300024: shell_4-DC_Shell
+    3300026: shell_5-DC_Shell
+    3300028: shell_6-DC_Shell
+    3300030: shell_7-DC_Shell
+    3300032: shell_8-DC_Shell
+    3300034: shell_9-DC_Shell
+    3300036: TRM_SRF-DC_Shell
+    3300038: ZH3-2D Base1-DC_Shell
+    3300040: ZH3-2D Base2-DC_Shell
+    3300042: ZH3-2D Bracket1-DC_Shell
+    3300044: ZH3-2D Bracket1-DC_Shell 1
+    3300046: ZH3-2D Bracket2-DC_Shell
+    3300048: ZH3-2D Bracket2-DC_Shell 1
+    3300050: ZH3-2D Shock-DC_Shell
+    3300052: ZH3-2D Shock-DC_Shell 1
+    3300054: ZH3-2D Shock-DC_Shell 2
+    3300056: ZH3-2D Shock-DC_Shell 3
+    3300058: ZH3-2D Tray-DC_Shell
+    4300000: TRM_SRF-DC_Shell
+    4300002: shell_2-DC_Shell
+    4300004: shell_3-DC_Shell
+    4300006: shell_4-DC_Shell
+    4300008: shell_5-DC_Shell
+    4300010: shell_6-DC_Shell
+    4300012: shell_7-DC_Shell
+    4300014: shell_8-DC_Shell
+    4300016: shell_9-DC_Shell
+    4300018: shell_10-DC_Shell
+    4300020: shell_11-DC_Shell
+    4300022: Cut-Extrude20-DC_Shell
+    4300024: brep_1-DC_Shell
+    4300026: brep_2-DC_Shell
+    4300028: brep_3-DC_Shell
+    4300030: brep_4-DC_Shell
+    4300032: brep_5-DC_Shell
+    4300034: brep_6-DC_Shell
+    4300036: brep_7-DC_Shell
+    4300038: ZH3-2D Shock-DC_Shell
+    4300040: ZH3-2D Shock-DC_Shell
+    4300042: ZH3-2D Shock-DC_Shell
+    4300044: ZH3-2D Base2-DC_Shell
+    4300046: ZH3-2D Base1-DC_Shell
+    4300048: ZH3-2D Shock-DC_Shell
+    4300050: ZH3-2D Bracket1-DC_Shell
+    4300052: ZH3-2D Bracket1-DC_Shell
+    4300054: ZH3-2D Bracket2-DC_Shell
+    4300056: ZH3-2D Bracket2-DC_Shell
+    4300058: ZH3-2D Tray-DC_Shell
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 33273656d68939343892024a302a837e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
